@@ -10,3 +10,7 @@
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&langs_count=10&custom_title=Other%20Used%20Languages&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=Java,Python,TeX,C,C%2B%2B,C%23,Vue,ShaderLab,TypeScript,JavaScript,HLSL,TSQL,Scala">
 </p>
+
+<p align="center">
+	<img width="450em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=24&branding=false">
+</p>
