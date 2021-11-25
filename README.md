@@ -6,5 +6,5 @@
 	<img width="450em"/>
 </p>
 <p align="center">
-	<a href="https://profile.codersrank.io/user/formidablae#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=trasparent"></a>
+	<a href="https://profile.codersrank.io/user/formidablae#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=24&branding=false&bg=white"></a>
 </p>
