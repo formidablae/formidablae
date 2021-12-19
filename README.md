@@ -24,6 +24,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=AngularBlog&hide_border=true&theme=dark)](https://github.com/formidablae/AngularBlog)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=EV_Route_Planner&hide_border=true&theme=dark)](https://github.com/formidablae/EV_Route_Planner)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=A-Domain-that-Rocks&repo=adomainthat-rocks_frontend&hide_border=true&theme=dark)](https://github.com/A-Domain-that-Rocks/adomainthat-rocks_frontend)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=pig_game&hide_border=true&theme=dark)](https://github.com/formidablae/pig_game)
 
 ## Data Science
 [![](https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Batched_Multi-armed_Bandits&hide_border=true&theme=dark)](https://github.com/formidablae/Batched_Multi-armed_Bandits)
