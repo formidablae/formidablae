@@ -21,5 +21,5 @@ jobs:
           git config user.name formidablae
           git config user.email 81068781+formidablae@users.noreply.github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "Personal 3d Contributions images updated"
           git push
