@@ -19,6 +19,7 @@
 ## Full-stack
 [![](https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Trendr_App&hide_border=true&theme=dark)](https://github.com/formidablae/Trendr_App)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Masters_Thesis&hide_border=true&theme=dark)](https://github.com/formidablae/Masters_Thesis)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Personal_Blog&hide_border=true&theme=dark)](https://github.com/formidablae/Personal_Blog)
 
 ## Back-end
 [![](https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=a_cool_blog&hide_border=true&theme=dark)](https://github.com/formidablae/a_cool_blog)
