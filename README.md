@@ -1,17 +1,18 @@
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=formidablae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=dark"/>
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 	<img width="450em"/>
 </p>
 
 # Languages
+(Most used languages by number of commits)
 <p align="center">
 	<a href="https://profile.codersrank.io/user/formidablae#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white"></a>
 </p>
 
 # Contributions
-(in the last 365 days)
+(in the last 365 days, languages pie based on number of commits)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 # Projects
