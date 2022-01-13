@@ -66,7 +66,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 10
-          plugin_repositories: 200
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 200
