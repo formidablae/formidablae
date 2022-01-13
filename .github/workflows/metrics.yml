@@ -52,7 +52,7 @@ jobs:
           plugin_languages_recent_load: 500
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_threshold: 0.01%
+          plugin_languages_threshold: 1%
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
