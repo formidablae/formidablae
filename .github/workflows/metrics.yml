@@ -36,7 +36,7 @@ jobs:
           plugin_activity_visibility: public
           plugin_activity_timestamps: yes
           plugin_discussions: yes
-          plugin_support: yes
+          # plugin_support: yes
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
@@ -48,23 +48,22 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 50
           plugin_languages_recent_categories: markup, programming, data
-          plugin_languages_recent_days: 21
+          plugin_languages_recent_days: 14
           plugin_languages_recent_load: 500
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_threshold: 0.1%
+          plugin_languages_threshold: 0.01%
           plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_filter: stars:>10
-          plugin_notable_repositories: yes
-          plugin_notable_indepth: yes
+          plugin_notable_from: organization
           plugin_people: yes
           plugin_people_limit: 20
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 10
-          plugin_repositories: yes
+          # plugin_repositories: yes
+          # plugin_repositories_featured: lowlighter/metrics, denoland/deno
           plugin_projects_descriptions: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 200
@@ -75,8 +74,8 @@ jobs:
           repositories_batch: 200
           plugin_habits: yes
           plugin_habits_from: 500
-          plugin_habits_days: 30
+          plugin_habits_days: 60
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_trim: yes
+          plugin_habits_trim: no
           plugin_stargazers: yes
