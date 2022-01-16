@@ -65,8 +65,6 @@ jobs:
           # plugin_repositories: yes
           # plugin_repositories_featured: lowlighter/metrics, denoland/deno
           plugin_projects_descriptions: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 200
           plugin_stars: yes
           plugin_stars_limit: 10
           plugin_traffic: yes
