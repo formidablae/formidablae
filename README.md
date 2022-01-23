@@ -5,6 +5,14 @@
 	<img width="450em"/>
 </p>
 
+
+<h5 align="center">Views of all repositories (updated daily)</h5>
+<p align="center">
+	<a href="https://github.com/formidablae/my_github_profile_views_counter">
+		<img width="135em" src="https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
+	</a>
+</p>
+
 # Languages
 (Most used languages by number of commits)
 <p align="center">
