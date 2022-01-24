@@ -19,10 +19,10 @@
 	<a href="https://profile.codersrank.io/user/formidablae#Tech%20Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white"></a>
 </p>
 
-# Contributions
+<!-- # Contributions
 (in the last 365 days, languages pie based on number of commits)
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg) -->
 
 # Projects
 
@@ -70,8 +70,7 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-# More in detail
+# More in detail
 <p align="center">
 	<img width="625em" src="https://github.com/formidablae/formidablae/blob/main/github-metrics.svg" />
 </p>
-
