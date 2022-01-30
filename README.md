@@ -1,3 +1,5 @@
+<!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge)](https://github.com/formidablae) -->
+<a href="https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge"></a>
 <h3 align="center">
 	Hello and welcome :smile:
 </h3>
