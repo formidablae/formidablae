@@ -1,5 +1,5 @@
 <!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge)](https://github.com/formidablae) -->
-<a href="https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge"></a>
+<img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge" />
 <h3 align="center">
 	Hello and welcome :smile:
 </h3>
