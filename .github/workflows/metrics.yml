@@ -44,18 +44,18 @@ jobs:
           # plugin_gists: yes
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_indepth: true
-          plugin_languages_analysis_timeout: 600
-          plugin_languages_categories: markup, programming, data
-          plugin_languages_colors: github
-          plugin_languages_limit: 50
-          plugin_languages_recent_categories: markup, programming, data
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 1000
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_threshold: 1%
+          # plugin_languages: yes
+          # plugin_languages_indepth: true
+          # plugin_languages_analysis_timeout: 600
+          # plugin_languages_categories: markup, programming, data
+          # plugin_languages_colors: github
+          # plugin_languages_limit: 50
+          # plugin_languages_recent_categories: markup, programming, data
+          # plugin_languages_recent_days: 30
+          # plugin_languages_recent_load: 1000
+          # plugin_languages_details: lines, bytes-size, percentage
+          # plugin_languages_sections: most-used, recently-used
+          # plugin_languages_threshold: 1%
           plugin_lines: yes
           # plugin_notable: yes
           # plugin_notable_from: organization
