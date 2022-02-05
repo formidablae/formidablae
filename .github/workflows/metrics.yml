@@ -40,7 +40,7 @@ jobs:
           # plugin_support: yes
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          plugin_followup_indepth: yes
+          # plugin_followup_indepth: yes
           # plugin_gists: yes
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
