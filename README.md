@@ -129,7 +129,6 @@
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-<!--- TODO: Will add LAMP -->
 
 ### Frameworks, Platforms and Libraries
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -158,12 +157,14 @@
 
 ### ML/DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![matplotlib](https://badgen.net/badge/matplotlib/MATPLOTLIB?label=&color=black&labelColor=black&icon=https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg) <!--- TODO: Add shields.io matplotlib badge -->
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-<!--- TODO: Will add matplotlib -->
 
 ### ORM
+![Eloquent](https://badgen.net/badge/Eloquent/ELOQUENT?label=&color=black&labelColor=black&icon=https://cdn.worldvectorlogo.com/logos/laravel-2.svg) <!--- TODO: Add shields.io Eloquent badge -->
+![SQL Alchemy](https://badgen.net/badge/SQLAlchemy/SQLALCHEMY?label=&color=black&labelColor=black&icon=https://user-images.githubusercontent.com/128223/153606192-c117618d-cabf-49c4-9204-d7f1afe24289.svg) <!--- TODO: Add shields.io SQLAlchemy badge -->
 ![Typeform](https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=typeform&logoColor=white)
-<!--- TODO: Will add Eloquent and SQLAlchemy -->
+
 
 ### Programming & Markdown, Styling Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
