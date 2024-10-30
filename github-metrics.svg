@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
-                    <span>formidablae</span>
+                    <span>Andi Ferhati</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 3480 users
+                            Followed by 3478 users
                         </div>
                     </section>
                     <section>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8357 Commits
+                            8362 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 1047 users
+                            Following 78 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 703 repositories
+                            Starred 702 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,7 +219,7 @@
                 </h2>
             </section>
             <div class="column largeable">
-                <h3>On formidablae's repositories</h3>
+                <h3>On Andi Ferhati's repositories</h3>
                 <div class="row fill-width">
                     <section class="column">
                         <h3 class="no-margin-top">Issues</h3>
@@ -313,7 +313,7 @@
                 </div>
             </div>
             <div class="column largeable">
-                <h3>Created by formidablae</h3>
+                <h3>Created by Andi Ferhati</h3>
                 <div class="row fill-width">
                     <section class="column">
                         <h3 class="no-margin-top">Issues</h3>
@@ -420,13 +420,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                16
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 17
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -487,6 +482,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 29
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                30
                             </div>
                         </div>
                     </section>
@@ -496,13 +496,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                16
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 17
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -564,13 +559,18 @@
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 29
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                30
+                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2024, 02:37:46 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2024, 02:36:53 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
