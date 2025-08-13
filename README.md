@@ -1,5 +1,5 @@
 <!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge)](https://github.com/formidablae) -->
-<img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge" />
+<!--- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge" /> -->
 <h3 align="center">
 	Hello and welcome :smile:
 </h3>
@@ -57,6 +57,7 @@
 </p>
 --->
 
+<!---
 # Projects
 
 ## Full-stack
@@ -122,6 +123,7 @@
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Batched_Multi-armed_Bandits&hide_border=true&theme=dark">
 	</a>
 </p>
+--->
 
 # Technologies
 
