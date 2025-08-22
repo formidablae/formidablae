@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=20&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
 </p>
 
 <!---
