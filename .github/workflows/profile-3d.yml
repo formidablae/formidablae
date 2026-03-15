@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
@@ -21,5 +21,5 @@ jobs:
           git config user.name formidablae
           git config user.email 81068781+formidablae@users.noreply.github.com
           git add -A .
-          git commit -m "Personal 3d Contributions images updated"
+          git commit -m "chore: update 3D contribution images"
           git push
